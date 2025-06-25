@@ -60,7 +60,7 @@ This project implements and compares two deep learning architectures — **AlexN
 ## Dataset
 
 The dataset used in this project is based on histopathological images of lung cancer and can be accessed here:  
-🔗 [Lung and Colon Cancer Histopathological Images Dataset on Kaggle](https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images)
+🔗 [Lung Cancer (Histopathological Images) Dataset on Kaggle](https://www.kaggle.com/datasets/rm1000/lung-cancer-histopathological-images)
 
 This dataset contains annotated images for three categories:  
 - Lung Adenocarcinoma  
